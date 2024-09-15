@@ -1,0 +1,21 @@
+{
+  "name": "registration-page-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "jest"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.1.1",
+    "puppeteer": "^23.3.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
